@@ -1,0 +1,33 @@
+theme: hpstr
+baseURL: https://guillaumemaka.com/
+languageCode: en-us
+title: "&#91;A Developer Road Trip&#93;"
+googleAnalytics: "UA-31733002-2"
+permalinks:
+  blog: /:year/:month/:day/:title.html
+disqusShortname: adeveloperroadtrip
+params:
+  subtitle: One week, one trip
+  learn_more_link: https://about.me/guillaumemaka
+  author:
+    name: Guillaume Maka
+    avatar: /images/IMG_0252.jpg
+    logo: /images/abstract-8.jpg
+    bio:
+      "I'm a Developer / Coder / Hacker / IT kind of guy since my 13 years old. I have a Bachelor in Computer Sciences kind of thing.
+      I learned a lot of stuff in the past and keep lerning everyday."
+
+    # Github repositories
+    github: guillaumemaka
+    twitter: guillaumemaka
+    linkedin: guillaumemaka
+  image:
+    feature: /images/abstract-8.jpg
+markup:
+  highlight:
+    hl_Lines: ""
+    lineNoStart: 1
+    lineNos: true
+    noClasses: true
+    style: monokai
+    tabWidth: 2
