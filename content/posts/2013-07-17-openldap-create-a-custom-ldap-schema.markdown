@@ -1,8 +1,8 @@
 ---
 type: post
 title: "OpenLDAP: Create a custom LDAP schema"
-date: 2013-07-17 11:30
-updated: 2015-01-31 10:55
+date: 2013-07-17T11:30:00-04:00
+updated: 2015-01-31T10:55:00-0400
 comments: true
 share: true
 tags: [Linux,OpenLDAP]
