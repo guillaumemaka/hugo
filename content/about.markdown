@@ -4,7 +4,6 @@ title: "about"
 comments: false
 share: false
 published: false
-draft: false
 footer: true
 ---
 

@@ -2,7 +2,7 @@ theme: hpstr
 baseURL: https://guillaumemaka.com/
 languageCode: en-us
 title: "&#91;A Developer Road Trip&#93;"
-googleAnalytics: "UA-31733002-2"
+googleAnalytics: "G-NFP0KN8VRH"
 permalinks:
   posts: /:year/:month/:day/:title
 disqusShortname: adeveloperroadtrip
